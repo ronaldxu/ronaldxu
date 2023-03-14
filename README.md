@@ -1,16 +1,24 @@
-### Hi there 👋
+## 📚 Personal Projects 
+* Project 1
+* Project 2
+* Project 3
+* Project 4
 
-<!--
-**ronaldxu/ronaldxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Projects
 
-Here are some ideas to get you started:
+* TBD
+* TBD2
+* TBD3
+* TBD4
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 My Skills
+* Data preparation, quality assurance, and analysis
+* Database design and modelling
+* Dashboard development and reporting
+* Exploratory data analysis
+
+## 🛠️ My Tools
+* Databases: SQL(Google BigQuery), Excel
+* Python: NumPy, Pandas
+* Visualisation: Tableau
+* Project Management: Trello
